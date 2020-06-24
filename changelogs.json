@@ -7,8 +7,12 @@
       "- Randomized damage on SCP-939 and P90",
       "- Improved AI slightly (SLIGHTLY)",
       "- Improved voice chat",
-      "- Removed Herobrine",
-      "- Work on backend for Community Resources"
+      "- Work on backend for Community Resources",
+      "- Fixed Medkit",
+      "- Added ammo",
+      "- Improved crouching",
+      "- Fixed 'half-sprint' with SCP-714 and the other gasmask (idk how spell)",
+      "- Removed Herobrine"
     ]
   }
 ]
